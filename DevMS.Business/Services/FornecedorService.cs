@@ -17,49 +17,53 @@ namespace DevMS.Business.Services
             _enderecoRepository = enderecoRepository;
         }
 
-        public async Task Adicionar(Fornecedor fornecedor)
+        public async Task <bool> Adicionar(Fornecedor fornecedor)
         {
             if(!ExecutarValidacao(new FornecedorValidation(), fornecedor) ||
-               !ExecutarValidacao(new EnderecoValidation(), fornecedor.Endereco)) return;
+               !ExecutarValidacao(new EnderecoValidation(), fornecedor.Endereco)) return false;
 
             if(_fornecedorRepository.Buscar(f => f.Documento == fornecedor.Documento).Result.Any())
             {
                 Notificar("Já existe um fornecedor com o documento informado!");
-                return;
+                return false;
             }
 
             await _fornecedorRepository.Adicionar(fornecedor);
+            return true;
         }
 
-        public async Task Atualizar(Fornecedor fornecedor)
+        public async Task <bool> Atualizar(Fornecedor fornecedor)
         {
-            if(!ExecutarValidacao(new FornecedorValidation(), fornecedor)) return;
+            if(!ExecutarValidacao(new FornecedorValidation(), fornecedor)) return false;
 
             if(_fornecedorRepository.Buscar(f => f.Documento == fornecedor.Documento && f.Id != fornecedor.Id).Result.Any())
             {
                 Notificar("Já existe um fornecedor com o documento informado!");
-                return;
+                return false;
             }
 
             await _fornecedorRepository.Atualizar(fornecedor);
+            return true;
         }
 
-        public async Task AtualizarEndereco(Endereco endereco)
+        public async Task <bool> AtualizarEndereco(Endereco endereco)
         {
-            if(!ExecutarValidacao(new EnderecoValidation(), endereco)) return;
+            if(!ExecutarValidacao(new EnderecoValidation(), endereco)) return false;
 
             await _enderecoRepository.Atualizar(endereco);
+            return true;
         }
 
-        public async Task Remover(Guid id)
+        public async Task <bool> Remover(Guid id)
         {
             if(_fornecedorRepository.Buscar(f => f.Id == id).Result.Any())
             {
                 Notificar("O fornecedor tem produtos cadastrados!");
-                return;
+                return false;
             }
 
             await _fornecedorRepository.Remover(id);
+            return true;
         }
 
         public void Dispose()

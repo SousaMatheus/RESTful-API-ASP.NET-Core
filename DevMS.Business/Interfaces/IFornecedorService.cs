@@ -4,9 +4,9 @@ namespace DevMS.Business.Interfaces
 {
     public interface IFornecedorService : IDisposable
     {
-        Task Adicionar (Fornecedor fornecedor);
-        Task Atualizar(Fornecedor forncedor);
-        Task AtualizarEndereco (Endereco endereco);
-        Task Remover(Guid id);
+        Task <bool>Adicionar (Fornecedor fornecedor);
+        Task <bool>Atualizar(Fornecedor forncedor);
+        Task <bool>AtualizarEndereco (Endereco endereco);
+        Task <bool>Remover(Guid id);
     }
 }
