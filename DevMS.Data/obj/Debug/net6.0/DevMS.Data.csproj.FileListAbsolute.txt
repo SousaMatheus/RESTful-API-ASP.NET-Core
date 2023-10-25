@@ -1,0 +1,30 @@
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Data\bin\Debug\net6.0\DevMS.Data.deps.json
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Data\bin\Debug\net6.0\DevMS.Data.dll
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Data\bin\Debug\net6.0\DevMS.Data.pdb
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Data\bin\Debug\net6.0\DevMS.Business.dll
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Data\bin\Debug\net6.0\DevMS.Business.pdb
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Data\obj\Debug\net6.0\DevMS.Data.csproj.AssemblyReference.cache
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Data\obj\Debug\net6.0\DevMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Data\obj\Debug\net6.0\DevMS.Data.AssemblyInfoInputs.cache
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Data\obj\Debug\net6.0\DevMS.Data.AssemblyInfo.cs
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Data\obj\Debug\net6.0\DevMS.Data.csproj.CoreCompileInputs.cache
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Data\obj\Debug\net6.0\DevMS.Data.csproj.CopyComplete
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Data\obj\Debug\net6.0\DevMS.Data.dll
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Data\obj\Debug\net6.0\refint\DevMS.Data.dll
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Data\obj\Debug\net6.0\DevMS.Data.pdb
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Data\obj\Debug\net6.0\ref\DevMS.Data.dll
+C:\dev\REST ASP.NET Core WebAPI\MinhaAPICompleta\src\DevMS.Data\bin\Debug\net6.0\DevMS.Data.deps.json
+C:\dev\REST ASP.NET Core WebAPI\MinhaAPICompleta\src\DevMS.Data\bin\Debug\net6.0\DevMS.Data.dll
+C:\dev\REST ASP.NET Core WebAPI\MinhaAPICompleta\src\DevMS.Data\bin\Debug\net6.0\DevMS.Data.pdb
+C:\dev\REST ASP.NET Core WebAPI\MinhaAPICompleta\src\DevMS.Data\bin\Debug\net6.0\DevMS.Business.dll
+C:\dev\REST ASP.NET Core WebAPI\MinhaAPICompleta\src\DevMS.Data\bin\Debug\net6.0\DevMS.Business.pdb
+C:\dev\REST ASP.NET Core WebAPI\MinhaAPICompleta\src\DevMS.Data\obj\Debug\net6.0\DevMS.Data.csproj.AssemblyReference.cache
+C:\dev\REST ASP.NET Core WebAPI\MinhaAPICompleta\src\DevMS.Data\obj\Debug\net6.0\DevMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\REST ASP.NET Core WebAPI\MinhaAPICompleta\src\DevMS.Data\obj\Debug\net6.0\DevMS.Data.AssemblyInfoInputs.cache
+C:\dev\REST ASP.NET Core WebAPI\MinhaAPICompleta\src\DevMS.Data\obj\Debug\net6.0\DevMS.Data.AssemblyInfo.cs
+C:\dev\REST ASP.NET Core WebAPI\MinhaAPICompleta\src\DevMS.Data\obj\Debug\net6.0\DevMS.Data.csproj.CoreCompileInputs.cache
+C:\dev\REST ASP.NET Core WebAPI\MinhaAPICompleta\src\DevMS.Data\obj\Debug\net6.0\DevMS.Data.csproj.CopyComplete
+C:\dev\REST ASP.NET Core WebAPI\MinhaAPICompleta\src\DevMS.Data\obj\Debug\net6.0\DevMS.Data.dll
+C:\dev\REST ASP.NET Core WebAPI\MinhaAPICompleta\src\DevMS.Data\obj\Debug\net6.0\refint\DevMS.Data.dll
+C:\dev\REST ASP.NET Core WebAPI\MinhaAPICompleta\src\DevMS.Data\obj\Debug\net6.0\DevMS.Data.pdb
+C:\dev\REST ASP.NET Core WebAPI\MinhaAPICompleta\src\DevMS.Data\obj\Debug\net6.0\ref\DevMS.Data.dll

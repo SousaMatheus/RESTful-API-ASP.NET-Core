@@ -1,0 +1,12 @@
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Business\bin\Release\net6.0\DevMS.Business.deps.json
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Business\bin\Release\net6.0\DevMS.Business.dll
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Business\bin\Release\net6.0\DevMS.Business.pdb
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Business\obj\Release\net6.0\DevMS.Business.csproj.AssemblyReference.cache
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Business\obj\Release\net6.0\DevMS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Business\obj\Release\net6.0\DevMS.Business.AssemblyInfoInputs.cache
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Business\obj\Release\net6.0\DevMS.Business.AssemblyInfo.cs
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Business\obj\Release\net6.0\DevMS.Business.csproj.CoreCompileInputs.cache
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Business\obj\Release\net6.0\DevMS.Business.dll
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Business\obj\Release\net6.0\refint\DevMS.Business.dll
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Business\obj\Release\net6.0\DevMS.Business.pdb
+C:\dev\ASP.NET Curso\AppMVC\src\DevMS.Business\obj\Release\net6.0\ref\DevMS.Business.dll
