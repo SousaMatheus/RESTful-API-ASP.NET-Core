@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMS.Business", "..\DevMS.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMS.Data", "..\DevMS.Data\DevMS.Data.csproj", "{5F60A06A-07EA-4A60-9518-6F43C27A5D10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevMs.Api", "DevMs.Api\DevMs.Api.csproj", "{34451015-6081-4783-9FB5-209D8D4FD381}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevMs.Api", "DevMs.Api\DevMs.Api.csproj", "{34451015-6081-4783-9FB5-209D8D4FD381}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
